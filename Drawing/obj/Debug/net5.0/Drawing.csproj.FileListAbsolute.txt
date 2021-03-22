@@ -1,0 +1,16 @@
+C:\CodebitsAcademy\LabTask\CSharp Labtask\LabTask1\LabTask2\Drawing\bin\Debug\net5.0\Drawing.exe
+C:\CodebitsAcademy\LabTask\CSharp Labtask\LabTask1\LabTask2\Drawing\bin\Debug\net5.0\Drawing.deps.json
+C:\CodebitsAcademy\LabTask\CSharp Labtask\LabTask1\LabTask2\Drawing\bin\Debug\net5.0\Drawing.runtimeconfig.json
+C:\CodebitsAcademy\LabTask\CSharp Labtask\LabTask1\LabTask2\Drawing\bin\Debug\net5.0\Drawing.runtimeconfig.dev.json
+C:\CodebitsAcademy\LabTask\CSharp Labtask\LabTask1\LabTask2\Drawing\bin\Debug\net5.0\Drawing.dll
+C:\CodebitsAcademy\LabTask\CSharp Labtask\LabTask1\LabTask2\Drawing\bin\Debug\net5.0\ref\Drawing.dll
+C:\CodebitsAcademy\LabTask\CSharp Labtask\LabTask1\LabTask2\Drawing\bin\Debug\net5.0\Drawing.pdb
+C:\CodebitsAcademy\LabTask\CSharp Labtask\LabTask1\LabTask2\Drawing\obj\Debug\net5.0\Drawing.csprojAssemblyReference.cache
+C:\CodebitsAcademy\LabTask\CSharp Labtask\LabTask1\LabTask2\Drawing\obj\Debug\net5.0\Drawing.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodebitsAcademy\LabTask\CSharp Labtask\LabTask1\LabTask2\Drawing\obj\Debug\net5.0\Drawing.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\LabTask\CSharp Labtask\LabTask1\LabTask2\Drawing\obj\Debug\net5.0\Drawing.AssemblyInfo.cs
+C:\CodebitsAcademy\LabTask\CSharp Labtask\LabTask1\LabTask2\Drawing\obj\Debug\net5.0\Drawing.csproj.CoreCompileInputs.cache
+C:\CodebitsAcademy\LabTask\CSharp Labtask\LabTask1\LabTask2\Drawing\obj\Debug\net5.0\Drawing.dll
+C:\CodebitsAcademy\LabTask\CSharp Labtask\LabTask1\LabTask2\Drawing\obj\Debug\net5.0\ref\Drawing.dll
+C:\CodebitsAcademy\LabTask\CSharp Labtask\LabTask1\LabTask2\Drawing\obj\Debug\net5.0\Drawing.pdb
+C:\CodebitsAcademy\LabTask\CSharp Labtask\LabTask1\LabTask2\Drawing\obj\Debug\net5.0\Drawing.genruntimeconfig.cache
